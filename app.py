@@ -8,7 +8,7 @@ from PIL import Image, ImageTk
 import pandas as pd
 import datetime
 import time
-CAMERA_INPUT="http://192.168.43.1:8080" #camerainput
+CAMERA_INPUT=0 #camerainput
 
 # main window 
 window = tk.Tk()
